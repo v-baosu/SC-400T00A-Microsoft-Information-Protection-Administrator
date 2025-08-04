@@ -1,3 +1,5 @@
+This course will be retiring on  **2025-05-30**. Once course is retired, all GitHub repos will be removed. Thank you!
+
 # SC-400T00: Microsoft Information Protection Administrator
 
 This repository includes lab instructions for the following courses:
